@@ -8,11 +8,11 @@ Fork（フォーク）とは、他の人が作成したGitHub上のリポジト�
 
 ## 参考文献
 
-- https://docs.github.com/ja/get-started/quickstart/fork-a-repo
+- [GitHub ドキュメント「リポジトリをフォークする」- https://docs.github.com/ja/get-started/quickstart/fork-a-repo]
 
 ## 作成者
 
 - 氏名: [竹本 格]
 - 学籍番号: [G384572023]
-- 作成日: 2015-11-15
-- 最終更新日: 2025-11-15
+- 作成日: 2025-11-15
+- 最終更新日: 2025-11-29
