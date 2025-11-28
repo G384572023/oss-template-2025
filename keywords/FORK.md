@@ -8,7 +8,7 @@ Fork（フォーク）とは、他の人が作成したGitHub上のリポジト�
 
 ## 参考文献
 
-- [GitHub ドキュメント「リポジトリをフォークする」- https://docs.github.com/ja/get-started/quickstart/fork-a-repo]
+- [GitHub ドキュメント「リポジトリをフォークする」] - (https://docs.github.com/ja/get-started/quickstart/fork-a-repo)
 
 ## 作成者
 
